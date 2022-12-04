@@ -13,11 +13,11 @@ The purpose of this analysis is to ensure suitable weather conditions for the vi
 ## Results
 
 ### Key differences
-June is warmer than December, as demonstrated by its higher mean, median (“50%”), min, and max temperatures. 
+- June is warmer than December, as demonstrated by its higher mean, median (“50%”), min, and max temperatures. 
 
-June’s temperatures are more consistent than December’s temperatures, with a lower standard deviation (“std”) and interquartile range (IQR). The IQR is calculated by subtracting the “25%” statistic from the “75%” statistic. This puts June’s IQR at 4 and December’s at 5.  
+- June’s temperatures are more consistent than December’s temperatures, with a lower standard deviation (“std”) and interquartile range (IQR). The IQR is calculated by subtracting the “25%” statistic from the “75%” statistic. This puts June’s IQR at 4 and December’s at 5.  
 
-December temperatures span a wider range than June temperatures. December temperatures range from 56 to 83 degrees, a range of 27 degrees. June temperatures range 64 to 85 degrees, a smaller range of only 21 degrees. 
+- December temperatures span a wider range than June temperatures. December temperatures range from 56 to 83 degrees, a range of 27 degrees. June temperatures range 64 to 85 degrees, a smaller range of only 21 degrees. 
 
 ## Summary
 
