@@ -3,7 +3,7 @@
 ## Overview
 
 ### Purpose
-The purpose of this analysis is to ensure suitable weather conditions for the viability of a surf and ice cream shop in Hawaii. Here, weather statistics from an SQLite database are gathered into two data frames which summarize temperature data gathered in the months of June and December, respectively. It is helpful to visualize these statistics together:
+The purpose of this analysis is to ensure suitable weather conditions for the viability of a surf and ice cream shop in Hawaii. Here, weather statistics from an SQLite database are gathered into two data frames which summarize temperature data gathered in the months of June and December, respectively. It is helpful to visualize these statistics side-by-side:
 
 <p float="left">
   <img width="138" alt="June_summary" src="https://user-images.githubusercontent.com/114126935/205467293-0a06c8dc-94bb-413a-a012-1a1cbc00e533.png" />
